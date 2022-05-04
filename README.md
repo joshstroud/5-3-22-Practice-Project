@@ -1,3 +1,5 @@
+Solved by Josh Stroud on May 3, 2022.
+
 # Fetch
 
 At Ad Hoc, our front-end applications often exchange JSON data with various RESTful APIs. We use modern JavaScript
